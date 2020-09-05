@@ -1,0 +1,10 @@
+package br.com.fundamentos;
+
+public class Escape {
+	public static void main(String[] args) {
+		System.out.println("Usando o \"Eclipese\"");
+		//Comentarios 
+		
+	}
+
+}
