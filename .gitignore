@@ -26,6 +26,11 @@ hs_err_pid*
 # Created by https://www.toptal.com/developers/gitignore/api/eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=eclipse
 
+
+
+# Created by https://www.toptal.com/developers/gitignore/api/eclipse
+# Edit at https://www.toptal.com/developers/gitignore?templates=eclipse
+
 ### Eclipse ###
 .metadata
 bin/
@@ -93,4 +98,3 @@ local.properties
 .sts4-cache/
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse
-
