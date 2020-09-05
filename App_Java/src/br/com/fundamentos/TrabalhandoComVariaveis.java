@@ -1,8 +1,8 @@
 package br.com.fundamentos;
 
-
 public class TrabalhandoComVariaveis {
-	
+
+	public TrabalhandoComVariaveis () {
 	/*
 	 * Tipos 
 	 * Primitivos
@@ -28,7 +28,7 @@ public class TrabalhandoComVariaveis {
 			System.out.println("Numero inteiro com long ---> " + numeroInteiroGrande );
 			
 			
-			
+		}
 		
 		
 	}
