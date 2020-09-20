@@ -31,8 +31,10 @@ public class EntradaDados {
 			
 		}else if ((sexo == 'F' && imc <= 27.3) ||  (sexo == 'M' && imc < 27.8)) {
 				System.out.println("Um pouco Acima do Peso"); 
+			}else{
+				System.out.println("Obesidade");
 			}
-		entrada.close();
+		  entrada.close();
 		}		
 
 	}
